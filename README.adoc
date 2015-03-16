@@ -1,4 +1,6 @@
 = Codename One GeoViz Library
+:toc:
+:source-highlighter: coderay
 A Library to Load and Render GeoJSON data in Codename One
 
 == Synopsis
