@@ -3,6 +3,8 @@
 :source-highlighter: coderay
 A Library to Load and Render GeoJSON data in Codename One
 
+image::screenshots/geoviz_demo.png[GeoViz Demo Screenshot]
+
 == Synopsis
 
 This library provides support for loading GeoJSON data in a Codename One application.  It also provides a component to render the GeoJSON data.
@@ -15,7 +17,7 @@ GPL+Classpath Exception
 
 (The following instructions are for Netbeans.  Installation in Eclipse or IntelliJ projects should be similar).
 
-1. Download the latest CN1GeoViz.cn1lib release, and copy it to your project's "lib" directory.
+1. Download the https://github.com/shannah/CN1GeoViz/releases[latest CN1GeoViz.cn1lib release], and copy it to your project's "lib" directory.
 2. Right click your project in the project explorer and select "Refresh Libs".
 
 == Getting Started
@@ -36,11 +38,11 @@ GeoVizComponent comp = new GeoVizComponent(coll);
 
 == Documentation
 
-* JavaDocs
+* https://rawgit.com/shannah/CN1GeoViz/master/dist/javadoc/index.html[JavaDocs]
 
 == Demo
 
-See the GeoVis Demo App in the Codename One repository
+See the https://codenameone.googlecode.com/svn/trunk/Demos/GeoVizDemo[GeoVis Demo App] in the Codename One SVN repository.
 
 
 
