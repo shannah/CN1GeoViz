@@ -42,7 +42,7 @@ GeoVizComponent comp = new GeoVizComponent(coll);
 
 == Demo
 
-See the https://codenameone.googlecode.com/svn/trunk/Demos/GeoVizDemo[GeoVis Demo App] in the Codename One SVN repository.
+See the https://github.com/shannah/GeoVizDemo[GeoVis Demo App] in the Codename One SVN repository.
 
 
 
